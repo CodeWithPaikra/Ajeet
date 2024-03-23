@@ -4,4 +4,4 @@
 
 💻 I believe in the power of collaboration and open source, which is why you'll often find me contributing to and maintaining projects on GitHub. Feel free to explore my repositories to see some of my latest work and experiments. If you have any questions or feedback, don't hesitate to reach out—I'm always eager to connect with fellow developers and tech enthusiasts.
 
-📫 Want to get in touch? You can reach me via email at [github@ujjwalgamer.com] or connect with me on LinkedIn (https://www.linkedin.com/in/ajeet-singh-paikra-30310a300/)https://www.linkedin.com/in/ajeet-singh-paikra-30310a300/]. Let's build something amazing together
+📫 Want to get in touch? You can reach me via email at [github@ujjwalgamer.com] or connect with me on LinkedIn (https://www.linkedin.com/in/ajeet-singh-paikra-30310a300/)https://www.linkedin.com/in/ajeet-singh-paikra]. Let's build something amazing together
